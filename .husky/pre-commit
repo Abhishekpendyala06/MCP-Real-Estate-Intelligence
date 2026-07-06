@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Pre-commit hook - run this before committing
+set -e
+
+echo "🔍 Running pre-commit checks..."
+
+# Type checking
+echo "📋 Type checking..."
+npm run type-check
+
+# Linting
+echo "🎯 Linting..."
+npm run lint
+
+# Formatting
+echo "🎨 Formatting check..."
+npm run format:check
+
+# Testing
+echo "🧪 Running tests..."
+npm run test
+
+echo "✅ All checks passed! Ready to commit."
