@@ -579,7 +579,7 @@ git push origin feature/amazing-feature
 
 ## 📞 Support & Community
 
-- 📧 **Email**: abhishek@example.com
+- 📧 **Email**: abhishekpendyala06@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Abhishekpendyala06/mcp-real-estate-intelligence/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/Abhishekpendyala06/mcp-real-estate-intelligence/discussions)
 
